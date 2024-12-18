@@ -1,5 +1,12 @@
 # General
 .DS_Store
 
-# Downloaded json files:
+# Downloaded json files
 *.json
+
+# Zipped extension
+*.zip
+
+# Packed extension
+*.crx
+*.pem
